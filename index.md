@@ -1,3 +1,3 @@
-# Welcome to my blog
+Sydney Vach
 
-I'm glad you are here. I plan to talk about ...
+Student at Harvard studying exoplanets.
